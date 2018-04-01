@@ -1,4 +1,4 @@
-# Install script for directory: /home/gps/StudioProjects/JniTry/app
+# Install script for directory: /home/gps/Opencv-Android-Native-Starter/app
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/gps/StudioProjects/JniTry/app/.externalNativeBuild/cmake/debug/armeabi-v7a/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/gps/Opencv-Android-Native-Starter/app/.externalNativeBuild/cmake/debug/armeabi-v7a/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
